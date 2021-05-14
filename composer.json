@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "marcp/pr01-uf-04",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel Project.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
